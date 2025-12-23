@@ -1,4 +1,4 @@
-# David (mrdeiviz)
+# David
 Building simple tools that make open-source progress visible.
 
 ## Current focus
