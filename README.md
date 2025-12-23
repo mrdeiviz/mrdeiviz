@@ -15,7 +15,4 @@ TypeScript · Node.js · Fastify · Prisma · PostgreSQL · Redis · Stripe · D
 ## Interests
 - Product & DX: tools that save real time
 - Lightweight infra: caching, APIs, and simple deploys
-- Badge design and minimal visualizations
 
-## Stats (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdeiviz&show_icons=true)
